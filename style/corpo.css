@@ -1,0 +1,11 @@
+.text{
+    display: flex;
+    padding-top: 05px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.introdução{
+    display:flex;
+    justify-content: space-around;
+}
